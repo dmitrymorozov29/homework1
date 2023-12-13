@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\bin\Debug\net8.0\Program_creating.exe
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\bin\Debug\net8.0\Program_creating.deps.json
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\bin\Debug\net8.0\Program_creating.runtimeconfig.json
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\bin\Debug\net8.0\Program_creating.dll
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\bin\Debug\net8.0\Program_creating.pdb
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\obj\Debug\net8.0\Program_creating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\obj\Debug\net8.0\Program_creating.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\obj\Debug\net8.0\Program_creating.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\obj\Debug\net8.0\Program_creating.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\obj\Debug\net8.0\Program_creating.dll
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\obj\Debug\net8.0\refint\Program_creating.dll
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\obj\Debug\net8.0\Program_creating.pdb
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\obj\Debug\net8.0\Program_creating.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Учеба разработчик\Program_creating\obj\Debug\net8.0\ref\Program_creating.dll
